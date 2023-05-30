@@ -55,7 +55,7 @@ public class FoodTruckApp {
 				System.out.println("Goodbye!");
 			}
 		}
-		input.close();
+		
 	}
 
 	public void existingTruck() {
